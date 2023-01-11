@@ -1,0 +1,3 @@
+#asks for user names
+name=input("what is your name bloke?")
+print("welcome home", name end="!!!!") 
